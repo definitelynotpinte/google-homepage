@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#logo{
+    display: block;
+    margin: 200px auto 0;
+}
+
+#search-bar{
+    display: block;
+    margin: 20px auto 0;
+    width: 450px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 40px;
+}
+
+#search-buttons-container{
+    text-align:center;
+    padding-top: 30px;
+}
+
+#language-options-container{
+    text-align:center;
+    padding-top:30px;
+    font-size: 15px;
+}
